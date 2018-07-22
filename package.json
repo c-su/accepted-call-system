@@ -26,6 +26,10 @@
     "type": "git",
     "url": "https://github.com/heroku/node-js-getting-started"
   },
+  "deploy": {
+    "type": "heroku",
+    "url": "https://afternoon-castle-68986.herokuapp.com"
+  },
   "keywords": [
     "node",
     "heroku",
